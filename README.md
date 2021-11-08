@@ -1,23 +1,19 @@
 # vue-dashboard
 
+
+## Description
+This board consists of the home page for now. Other pages will be added with updates.
+
+## Project General View
+![alt text](https://github.com/sercannaya/vue-dashboard/tree/master/public/dashboard-preview.jpg)
+
 ## Project setup
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+yarn run serve
+yarn run build
+yarn run test
+yarn run lint
 ```
 
 ### Customize configuration
