@@ -5,7 +5,7 @@
 This board consists of the home page for now. Other pages will be added with updates.
 
 ## Project General View
-![alt text](https://github.com/sercannaya/vue-dashboard/tree/master/public/dashboard-preview.jpg)
+![alt text](https://github.com/sercannaya/vue-dashboard/blob/master/public/dashboard-preview.jpg)
 
 ## Project setup
 ```
