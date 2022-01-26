@@ -1,6 +1,4 @@
 # vue-dashboard
-
-
 ## Description
 This board consists of the home page for now. Other pages will be added with updates.
 
